@@ -1,0 +1,22 @@
+npm run dev
+npm create vite
+cd personal-brand
+npm run dev
+npm install tailwindcss @tailwindcss/vite
+npm run dev
+npm create dev
+npm run dev
+npm run build
+npm run buiold
+npm run build
+npm runm dev
+npm run dev
+npm run build
+npm run dev
+npm run build
+npm run dev
+npm run build
+npm run dev
+git init
+git commit -m "first commit"
+git add .
